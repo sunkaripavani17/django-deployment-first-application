@@ -1,4 +1,4 @@
 #test.py c:\users\pavan\my_repo1>folder
 
 
-print("Hello student");
+print("Hello world");
